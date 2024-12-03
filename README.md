@@ -1,4 +1,4 @@
-# front
+# GitEase
 
 ## Project setup
 ```
